@@ -1,9 +1,7 @@
-# gra
-bio, DT
 
 The dataset is in the dataset folder
 
-To process the data, run pick_sequence.py get_feature2.py get interaction_matrix,m
+To process the data, run pick_sequence.py   get_feature2.py   get_interaction_matrix.m
 
 To get the similarity, run get_similarity_matrix.m
 

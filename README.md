@@ -1,4 +1,4 @@
-# gra
+# prediction for plant
 
 
 The dataset is in the dataset folder
